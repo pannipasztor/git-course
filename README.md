@@ -1,3 +1,2 @@
 # git-course
 hhh
-Tartalom
